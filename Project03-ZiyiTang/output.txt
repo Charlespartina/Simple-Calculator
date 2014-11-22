@@ -1,0 +1,17 @@
+Result: 9  
+Result: 4  
+Result: 5  
+Result: INVALID: Operands and operators cannot be matched 
+Result: INVALID: This expression has illegal character 
+Result: 5  
+Result: 25 
+Result: INVALID: Arithmetic Exception (such as the denominator equals to 0). 
+Result: 5  
+Result: -1 
+Result: -1 
+Result: 10 
+Result: 10 
+Result: 0  
+Result: 299 
+Result: INVALID: No operator or operand is found 
+Result: INVALID: Arithmetic Exception (such as the denominator equals to 0). 
