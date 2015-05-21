@@ -4,7 +4,7 @@ NYU CS102 Data Structure Programming Assignment <br>
 This project contains a GUI Calculator and a Console Calculator.
 ## GUI Calculator
 This calculator can evaluate a mathematical expression including sum, substraction, multiplication, division and parenthesis for integers.<br>
-![](https://github.com/Charlespartina/Simple-Calculator/tree/master/screenshot/expression.png)
+![](https://github.com/Charlespartina/Simple-Calculator/tree/master/screenshot/expression.jpg)
 ### Features
 1. Exception Handling for "divide by zero", "initial digit is 0 for multi-digits number", "operand or operator cannot correctly match."
 2. There will always be a "0" showing on the screen when opening the calculator or when clicking on "AC".
