@@ -12,5 +12,6 @@ This calculator can evaluate a mathematical expression including sum, substracti
 ![Image is currently not available](https://raw.githubusercontent.com/Charlespartina/Simple-Calculator/master/screenshot/initial.jpg)
 3. If an integer or a mathematical expression has so many digits, operands or operators that cannot be contained within the black screen of the calculator, then the integer or the mathematical expression showing on the screen will move to the left whenever a new digit or operator is added, and the foremost digit or operator will be removed from the screen, but the value of the integer and the meaning of the mathematical expression remain unchanged since they are implicitly stored.<br>
 ![Image is currently not available](https://raw.githubusercontent.com/Charlespartina/Simple-Calculator/master/screenshot/longnumber.jpg)
+
 ## Console Calculator
 This calculator can evaluate multiple mathematical expressions from an input file and output the results in another file.
