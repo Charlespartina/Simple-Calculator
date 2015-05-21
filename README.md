@@ -1,5 +1,5 @@
 # Simple-Calculator
-=================
+
 NYU CS102 Data Structure Programming Assignment
 This project contains a GUI Calculator and a Console Calculator.
 ## GUI Calculator
