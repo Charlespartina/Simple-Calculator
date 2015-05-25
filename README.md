@@ -1,6 +1,6 @@
 # Simple-Calculator
 
-NYU CS102 Data Structure Programming Assignment <br>
+NYU CS102 Data Structure Programming Assignment assigned by Professor Joanna Klukowska. <br>
 This project contains a GUI Calculator and a Console Calculator.
 ## GUI Calculator
 This calculator can evaluate a mathematical expression including sum, substraction, multiplication, division and parenthesis for integers.<br>
